@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/elicul/puppeteer-youtube#readme",
   "dependencies": {
-    "puppeteer": "^1.16.0"
+    "puppeteer": "^1.6.2"
   }
 }
